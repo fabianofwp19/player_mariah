@@ -1,7 +1,7 @@
 # 🎵 Web Music Player Minimalista
 ![alt text](tela.png)
 Este é um **player de música online** inspirado no Spotify, com um design **clean** e **minimalista**. Ele oferece uma experiência fluida e interativa para a reprodução de áudio na web.
-
+demo: https://player-mariah.vercel.app/
 ## 🚀 Funcionalidades
 
 ✅ **Reprodução de áudio** (Play/Pause, Avançar, Voltar)  
