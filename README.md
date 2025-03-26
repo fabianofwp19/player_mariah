@@ -23,7 +23,7 @@ Este é um **player de música online** inspirado no Spotify, com um design **cl
 ```
 
 ## 🎨 Captura de Tela
-![Preview do Player](assets/preview.png)
+![Preview do Player](tela.png)
 
 ## 🛠️ Como Usar
 1. Clone este repositório:
