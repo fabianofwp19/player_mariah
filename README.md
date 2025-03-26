@@ -1,5 +1,5 @@
 # 🎵 Web Music Player Minimalista
-
+![alt text](tela.png)
 Este é um **player de música online** inspirado no Spotify, com um design **clean** e **minimalista**. Ele oferece uma experiência fluida e interativa para a reprodução de áudio na web.
 
 ## 🚀 Funcionalidades
@@ -28,7 +28,7 @@ Este é um **player de música online** inspirado no Spotify, com um design **cl
 ## 🛠️ Como Usar
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/web-music-player.git
+   git clone https://github.com/fabianofwp19/player_mariah.git
    ```
 2. Abra o arquivo `index.html` no navegador.
 3. Substitua `assets/song.mp3` pelo seu próprio arquivo de áudio.
